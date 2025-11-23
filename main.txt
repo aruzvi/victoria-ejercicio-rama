@@ -1,1 +1,2 @@
-Archivo inicial del ejercicio.
+Mi nombre es Victoria Aruzamen. 
+Quiero aprender Git y GitHub, además quiero aprender más testing, cómo se desenvuelven en el ambiente laboral IT y si es posible más lenguajes de programación. Aprendí muchísimo sobre el mundo IT. Se superaron mis expectativas de lo que podría llegar a aprender y gracias a ello puedo integrarme más con el mundo de la programación, tecnología y testing.
