@@ -1,1 +1,5 @@
 Archivo inicial del ejercicio.
+Información adicional:
+Me gusta la música.
+Mi comida favorita es la pizza.
+Quiero trabajar como desarrolladora frontend.
